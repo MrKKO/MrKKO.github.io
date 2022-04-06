@@ -1,0 +1,35 @@
+*{font-family:arial;}
+body{background-color:black;}
+#tlo  {background-color:grey;height:550px;width:500px;margin:auto;padding:10px;}
+#wynik{background-color:black;color:white;float:left;width:250px;height:100px;font-size:30px;text-align:center;line-height:100px;}
+#kto{background-color:grey;color:white;float:right;width:250px;height:100px;font-size:30px;text-align:center;line-height:100px;}
+footer{color:white;clear:both;}
+#pole1{height:100px;width:100px;margin:0px;padding:0px;font-size:50px;background-color:#bbbdb7;float:left;
+color:black;border-right: solid 5px black;text-align:center;line-height:100px;margin-left:95px;margin-top:95px;}
+				
+#pole2{height:100px;width:100px;margin:0px;padding:0px;font-size:50px;background-color:#bbbdb7;float:left;
+color:black;text-align:center;line-height:100px;margin-top:95px;}
+				
+#pole3{height:100px;width:100px;margin:0px;padding:0px;font-size:50px;background-color:#bbbdb7;float:left;
+color:black;border-left: solid 5px black;text-align:center;line-height:100px;margin-top:95px;}
+				
+#pole4{height:100px;width:100px;margin:0px;padding:0px;font-size:50px;background-color:#bbbdb7;float:left;
+color:black;border-right: solid 5px black;clear:both;border-top: solid 5px black;text-align:center;line-height:100px;margin-left:95px;}
+				
+#pole5{height:100px;width:100px;margin:0px;padding:0px;font-size:50px;background-color:#bbbdb7;float:left;
+color:black;border-top: solid 5px black;text-align:center;line-height:100px;}
+				
+#pole6{height:100px;width:100px;margin:0px;padding:0px;font-size:50px;background-color:#bbbdb7;float:left;
+color:black;border-left: solid 5px black;border-top: solid 5px black;text-align:center;line-height:100px;}
+				
+#pole7{height:100px;width:100px;margin:0px;padding:0px;font-size:50px;background-color:#bbbdb7;float:left;
+color:black;border-right: solid 5px black;border-top: solid 5px black;clear:both;text-align:center;line-height:100px;margin-left:95px;}
+				
+#pole8{height:100px;width:100px;margin:0px;padding:0px;font-size:50px;background-color:#bbbdb7;float:left;
+color:black;border-top: solid 5px black;text-align:center;line-height:100px;}
+				
+#pole9{height:100px;width:100px;margin:0px;padding:0px;font-size:50px;background-color:#bbbdb7;float:left;
+color:black;border-left: solid 5px black;border-top: solid 5px black;text-align:center;line-height:100px;}
+#reset{background-color:black;color:white;float:left;width:230px;height:100px;font-size:30px;text-align:center;line-height:100px;margin-top:10px;}
+#komp{background-color:black;color:white;float:right;width:230px;height:100px;font-size:30px;text-align:center;line-height:100px;margin-top:10px;}
+footer{color:white;clear:both;}
